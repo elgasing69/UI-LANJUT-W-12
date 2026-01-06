@@ -4,6 +4,7 @@
     <nav>
       <RouterLink to="/" class="nav-link">Todo</RouterLink>
       <RouterLink to="/completed" class="nav-link">Completed</RouterLink>
+      <RouterLink to="/statistics" class="nav-link">📊 Statistics</RouterLink>
     </nav>
   </header>
 </template>
