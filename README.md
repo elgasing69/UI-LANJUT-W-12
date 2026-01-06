@@ -7,7 +7,7 @@ Fokusnya untuk latihan state management, routing, dan penyimpanan lokal (localSt
 ## Timothius Abel Gunther Sinulingga
 
 ## Link Video
-
+https://www.loom.com/share/346cab27356d4cfe8ad4c4c96489277d
 
 ## Prasyarat
 
